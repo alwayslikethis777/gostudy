@@ -1,0 +1,8 @@
+#run部署
+nohup go run main.go > nohup.log 2>&1 &
+
+#打包部署
+
+#docker部署
+
+#nginx部署
